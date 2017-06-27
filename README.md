@@ -1,6 +1,6 @@
 # bundles
 
-![](https://travis-ci.org/devshorts/bundles.svg?branch=master)
+[![Build Status](https://travis-ci.org/devshorts/bundles.svg?branch=master)](https://travis-ci.org/devshorts/bundles)
 
 To run:
 
